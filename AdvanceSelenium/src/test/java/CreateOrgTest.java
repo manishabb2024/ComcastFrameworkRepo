@@ -12,6 +12,7 @@ public class CreateOrgTest extends BaseClass {
 		or.add.click();
 		or.accfield.sendKeys("abcd");
 		or.savebtn.click();
+		System.out.println("organisation");
 		
 			}
 }
